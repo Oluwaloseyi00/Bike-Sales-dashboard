@@ -75,6 +75,14 @@ Using DAX measures and Power BI visualizations:
 
 ---
 
+## 📸 Dashboard
+
+Below is a snapshot of the interactive **Bike Sales Dashboard** created in Power BI. It displays key metrics such as Total Revenue, Profit, Units Sold, Monthly Sales Trends, Top/Bottom Products, and more — all in a clean and user-friendly layout to aid data-driven decision-making.
+
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/07419158-dda2-4224-be2b-8cf3279b7b38)
+
+---
+
 ## ✅ Recommendations
 
 - **Low-Performing Countries**: Germany, France, and Canada show weak profit margins. Analyze local biking/racing event seasons to optimize stock levels and marketing.
@@ -110,4 +118,3 @@ Special thanks to Kaggle for the dataset and the Power BI community for tutorial
 ## 📬 Let’s Connect
 
 Feel free to reach out if you’d like to collaborate or share feedback!
-
